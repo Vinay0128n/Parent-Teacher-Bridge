@@ -1,0 +1,17 @@
+# Ignore build and user-specific files
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+
+# Ignore temp files
+*.dbmdl
+*.pdb
+*.exe
+*.dll
+
+# Node modules if using JS frontend
+# node_modules/
